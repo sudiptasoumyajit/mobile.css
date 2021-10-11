@@ -1,0 +1,104 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.green-gradient{
+    color: white;
+    background: rgb(0,36,5);
+    background: linear-gradient(90deg, rgba(0,36,5,1) 0%, rgba(3,105,17,1) 35%, rgba(0,154,21,1) 100%);
+}
+.blue-gradient{
+    color: white;
+    background: rgb(0,4,36);
+    background: linear-gradient(90deg, rgba(0,4,36,1) 0%, rgba(3,5,105,1) 35%, rgba(0,6,154,1) 100%);
+}
+.red-gradient{
+    color: white;
+    background: rgb(119,0,0);
+    background: linear-gradient(90deg, rgba(119,0,0,1) 0%, rgba(122,0,0,1) 35%, rgba(255,0,0,1) 100%);
+}
+.card{
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 20px;
+    padding: 5px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+.font-comfortaa{
+    font-family: 'Comfortaa', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+.font-poppings{
+    font-family: 'Poppins', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+.font-ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+.font-monospace{
+    font-family: monospace;
+}
+.font-none{
+    font-family: sans-serif;
+}
+.font-cursive{
+    font-family: cursive;
+}
+.font-black{
+    color: black;
+}
+.font-white{
+    color: white;
+}
+.font-danger{
+    color: red;
+}
+.font-warning{
+    color: orange;
+}
+.font-success{
+    color: green;
+}
+.font-blue{
+    color: blue;
+}
+.bg-warning{
+    background-color: red;
+}
+.bg-success{
+    background-color: green;
+}
+.bg-danger{
+    background-color: orange;
+}
+.bg-blue{
+    background-color: blue;
+}
+.radius-5{
+    border-radius: 5px;
+}
+.radius-10{
+    border-radius: 10px;
+}
+.radius-15{
+    border-radius: 15px;
+}
+.radius-20{
+    border-radius: 20px;
+}
+.padding-5{
+    padding: 5px;
+}
+.padding-10{
+    padding: 10px;
+}
+.padding-15{
+    padding: 15px;
+}
+.padding-20{
+    padding: 20px;
+}
